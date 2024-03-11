@@ -1,2 +1,2 @@
 # yinn-s-yard
-personal website under the alias "yinn's yard"
+project to be completed for the "code the dream" prework
